@@ -5,5 +5,6 @@ CREATE OR REPLACE TABLE EMPLOYEES (
     DEPARTMENT VARCHAR(50),
     SALARY NUMBER(10,2),
     LOCATION VARCHAR(50),
-    Extra varchar(50)
+    Extra varchar(50),
+    Tag varchar(50)
 );
